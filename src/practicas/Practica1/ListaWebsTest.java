@@ -1,0 +1,89 @@
+package practicas.Practica1;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.AfterEach;
+import org.junit.jupiter.api.BeforeEach;
+import org.junit.jupiter.api.Test;
+
+class ListaWebsTest {
+
+	@BeforeEach
+	void setUp() throws Exception {
+	}
+
+	@AfterEach
+	void tearDown() throws Exception {
+	}
+
+	@Test
+	void testListaWebs() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	void testLeerWebs() {
+	
+	}
+
+	@Test
+	void testEscribirWebs() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	void testAnadirWeb() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	void testBorrarWeb() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	void testBorrar1Web() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	void testBuscarWeb() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	void testWebsOrdenadas() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	void testWord2Webs() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	void testSalientes() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	void testListaWeb2listaString() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	void testCargarSalientes() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	void testAnadirSaliente() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	void testGuardarListaWebs() {
+		fail("Not yet implemented");
+	}
+
+}
